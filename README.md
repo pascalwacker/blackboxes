@@ -27,6 +27,9 @@ Start by typing the following commands in your terminal in order to get the proj
 ### Files/Folders Structure
 Here is a brief explanation of the template folder structure and some of its main files usage:
 
+#### What you are looking for
+The JS handling all the MetaMask interactions, you can find here: [theme/src/assets/scripts/index.js](https://github.com/pascalwacker/blackboxes/blob/master/theme/src/assets/scripts/index.js)
+
 #### app
 Contains all the smart contracts (just one at the moment)
 

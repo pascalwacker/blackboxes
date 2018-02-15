@@ -21,3 +21,4 @@ $RECYCLE.BIN  # [3]
 
 bin/
 theme/node_modules
+theme/build
