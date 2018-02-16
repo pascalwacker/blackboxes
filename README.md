@@ -2,8 +2,10 @@
 *Note: This work was done at a hackathon with only one coder, therefore don't expect outstanding code quality but more hacky stuff*
 
 ## See it in action
-[https://pascalwacker.github.io/blackboxes/](https://pascalwacker.github.io/blackboxes/)
-*Login: just use any e-mail adress and a random password*
+[https://pascalwacker.github.io/blackboxes/](https://pascalwacker.github.io/blackboxes/)  
+*Login: just use any e-mail adress and a random password*  
+**NOTE: You need `MetaMask` installed in your browser and it HAS TO BE UNLOCKED! (otherwise it won't work...)!**
+
 
 ### Used Ressources
 - [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard) Bootstrap Dashboard ([MIT Licence](https://opensource.org/licenses/MIT))
